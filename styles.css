@@ -13,6 +13,7 @@ h1, h2, h3 {
     letter-spacing: 3px;
     margin: 16px auto 16px auto;
     text-align: center;
+    width: 90vw;
 
 }
 
@@ -31,10 +32,11 @@ h3 {
 p {
 
     color: lightblue;
-    font-size: 20px;
+    display: block;
+    font-size: 24px;
     margin: auto;
     text-align: center;
-    width: 1080px;
+    width: 75vw;
 
 }
 
